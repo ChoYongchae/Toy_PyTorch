@@ -44,7 +44,9 @@ PyTorch 연습장
 + https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
 + 제일 재밌어 보이는 DCGAN 기반 얼굴 생성 예제를 첫 연습으로 선정
 
-참조
+기타 참조
 ==============
 + 마크다운 작성
     - https://gist.github.com/ihoneymon/652be052a0727ad59601
++ VSCode로 마크다운 미리보면서 작성하기
+    - https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221420270061&proxyReferer=https:%2F%2Fwww.google.com%2F
