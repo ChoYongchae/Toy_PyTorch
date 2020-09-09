@@ -6,7 +6,14 @@ PyTorch 연습장
 + 많은 연구자들이 pytorch로 연구하는 이유를 직접 느껴보고 나도 이를 활용하여 재밌는 프로젝트들을 진행해보고 싶음
 
 
-환경설치(Windows 10)
+하드웨어 환경
+============
++ AMD Ryzen 5 3600
++ NVIDIA Geforce GTX1660 Super
++ RAM 16G(8+8)
++ HDD
+
+환경 설치(Windows 10)
 ============
 + https://www.anaconda.com/products/individual   
     - tensorflow, pytorch 등의 여러 개발 환경들을 번갈아 사용하기 위해서 패키지/의존성 관리를 도와주는 anaconda를 사용
@@ -43,6 +50,13 @@ PyTorch 연습장
 ===============
 + https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
 + 제일 재밌어 보이는 DCGAN 기반 얼굴 생성 예제를 첫 연습으로 선정
+
+
+
+utils
+===============
++ crawling.py, chromedriver.exe: 구글 이미지 검색을 통해서 데이터셋 수집
+
 
 기타 참조
 ==============
